@@ -7,3 +7,5 @@ html stands for hyper text markup language
 pseudo element which is used to style the specific part of the element
 <br>
 pseudo classes
+attributes
+css colors
