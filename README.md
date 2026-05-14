@@ -11,3 +11,13 @@ pseudo classes
 attributes
 <br>
 css colors
+<br>
+css background colors
+<br>
+css font family
+<br>
+css margin and padding
+<br>
+css borders
+<br>
+css flex
